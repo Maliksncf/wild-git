@@ -1,0 +1,10 @@
+$ git log -p
+commit eef89380346fe3aca0809a6cb28553d729246854 (HEAD -> master)
+Author: Maliksncf <abdelmalik-el-kaddous.bougherara@sncf.fr>
+Date:   Mon Apr 11 11:02:15 2022 +0200
+
+    At Wild Code School, we code without shoes.
+
+diff --git a/wild.html b/wild.html
+new file mode 100644
+index 0000000..e69de29
